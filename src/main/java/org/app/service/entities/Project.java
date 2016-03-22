@@ -32,7 +32,6 @@ public class Project implements Serializable{
 	private List<Release> releases = new ArrayList<>();
 
 	public String getProjectNo() {
-		
 		// TODO Auto-generated method stub
 		return this.projectNo.toString();
 	}
